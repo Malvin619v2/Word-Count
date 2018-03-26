@@ -1,0 +1,1 @@
+A small application that counts the number of words in string and returns the top 3 reoccuring words. This is done by setting a string first, splitting it into a list then counting each word in the list
